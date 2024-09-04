@@ -2,7 +2,7 @@
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
 // File name: projects/03/b/RAM4K.hdl
-// Made by Shubh Nawani
+// Made by Gourish Chouhan
 
 /**
  * Memory of 4K registers, each 16 bit-wide. Out holds the value
